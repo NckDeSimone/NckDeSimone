@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @NckDeSimone
-- 👀 I’m interested in learning more about coding and going from hobbyist to professional...
-- 🌱 I’m currently learning Java ...
+- 👋 Hi, I’m Nick DeSimone
+
+- 🌱 I’m currently learning Java in Promineo Tech's Back End Bootcamp.
+
+- 👀 I’m interested in making the jump from hobbyist to professional and am always working to better myself.
+
+- 💡 The future looks promising from where I'm sitting!
 
 
 <!---
